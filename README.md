@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Robert! 
-- 👀 I’m interested in data science, NLP and computer vision!
-- 🌱 I’m currently learning about diffusion models for video-generation, music-tagging with graph neural networks!
-- 💞️ I’m looking to collaborate on anything!
+- 👋 Hi, I am Robert! I'm a final year MSc. Machine Learning at KTH! I did my Bachelor's in Mathematics at Lund University.
+- 👀 I’m interested intersted in multimodal AI and computer vision, e.g. LLAVA, CLIP, NERF, particularly in industry applications
+- 🌱 I’m currently working on Twiga with the KTH AI Society - a WhatsApp bot supporting Tanzanian educators!
 - 📫 How to reach me: robsko@kth.se
 
 <!---
